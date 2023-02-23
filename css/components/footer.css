@@ -1,0 +1,28 @@
+.footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #b99250;
+  opacity: 0.3;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: rgb(52, 26, 0);
+  opacity: 0.6;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-heart {
+  color: #cd6a07;
+}
+.footer-copyright {
+  font-style: italic;
+  font-size: 15px;
+}
